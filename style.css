@@ -1,0 +1,24 @@
+/* CSS Document */
+body{ background-color:#E1FFEE;
+      color:#555555;
+	  font-family: Ariel, Helvetica, sans-serif;
+	  font-size: 16px;
+	  font-weight: normal;
+	  line-height: 1.6em;
+	  margin: 0px;
+}
+h1 { color:#DC143C;}
+h2{ color:#603601;}
+h3{ color:#000000;}
+h4{ color:#CD853F;}
+h5{ color:#696969;}
+h6{ color:#D2691E;}
+p{ color:#150050;}
+.box-1 {background-color:#7B0A0C;
+	    color: #fff;
+}
+
+
+.container{ width:80%;
+	        margin: auto;
+}
